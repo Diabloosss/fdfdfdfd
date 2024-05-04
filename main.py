@@ -230,20 +230,31 @@ import random
 
 
 
-a = [1,2,3,4,5,6]
-b = a.copy()
-a.count(b)
+# a = [1,2,3,4,5,6]
+# #
+
+
+# test=15
+# if test<10:
+#     print("<10")
+# elif test>20:
+#     print(">20")
+# else:
+#     print("<10")
 
 
 
+# test=0
+# if test>-10:
+#     print(">-10")
+# elif test>-8:
+#     print(test>-8)
+# else:
+#     print(test>-10)
 
 
-
-
-
-
-
-
+# test = ['a','b','c','d','e']
+# print(test.count(2))
 
 
 
